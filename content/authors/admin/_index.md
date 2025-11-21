@@ -62,52 +62,49 @@ education:
     date_start: 2020-07-01
     date_end: 2025-03-28
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Skripsi yang membahas tentang _Pengaruh penerapakan model PjBL terhadap Keterampilan Kolaborasi Peserta Didik_.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      text: 'Read Paper'
+      url: '/'
   - area: Jurusan IPA
     institution: SMA N 1 Kinali
     icon: ""
     date_start: 2016-09-01
     date_end: 2019-05-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
   
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Content Writer
+    company_name: Akazed.com
+    company_url: '/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-01-01
+    date_end: '2025-09-09'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Membuat perencanaan konten, menulis konten SEO, menjadwalakan publikasi dan mengelola google search console.
+  - position: Guru Aqidah Akhlak _magang_
+    company_name: MAS Al Falah Padang
+    company_url: '/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-02-01
+    date_end: 2024-06-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Menyusun modul pembelajaran, mengelola pembelajaran peserta didik, menjalankan kurikulum merdeka dengan model project, dan evaluasi peserta didik
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: SEO
         description: ''
-        percent: 95
+        percent: 80
         icon: code-bracket
-      - name: Machine Learning
+      - name: Digital Marketing
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Content Writter
         description: ''
         percent: 85
         icon: cloud
@@ -115,51 +112,32 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Menulis
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Berjalan santai
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Spanish
-    percent: 50
-
+  - name: English
+    percent: x?
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Mini Course Digital Marketing
+    url: /
+    date: '2025-11-20'
+    awarder: RevoU
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Menyelesaikan mini course Digital Marketing yang diadakan oleh RevoU
 ---
 
 Seorang antusias dalam digital marketing, Saya berpengalaman menjadi seorang blogger selama lebih dari 3 tahun, menulis konten blog, SEO,Google Search Console dan content planner, serta dapat menggunakan AI untuk mempermudah pekerjaan.
